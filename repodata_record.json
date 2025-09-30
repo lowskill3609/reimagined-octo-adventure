@@ -1,0 +1,42 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "conda-content-trust >=0.1.1",
+    "conda-env >=2.6",
+    "conda-build >=3.27"
+  ],
+  "depends": [
+    "archspec >=0.2.3",
+    "boltons >=23.0.0",
+    "charset-normalizer",
+    "conda-libmamba-solver >=23.11.0",
+    "conda-package-handling >=2.2.0",
+    "distro >=1.5.0",
+    "frozendict >=2.4.2",
+    "jsonpatch >=1.32",
+    "menuinst >=2",
+    "packaging >=23.0",
+    "platformdirs >=3.10.0",
+    "pluggy >=1.0.0",
+    "pycosat >=0.6.3",
+    "python >=3.12,<3.13.0a0",
+    "requests >=2.28.0,<3",
+    "ruamel.yaml >=0.11.14,<0.19",
+    "setuptools >=60.0.0",
+    "tqdm >=4",
+    "truststore >=0.8.0",
+    "zstandard >=0.19.0"
+  ],
+  "fn": "conda-24.9.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "ccdc4f2f59f9ffb74ac9d4ee496a197d",
+  "name": "conda",
+  "sha256": "50e4be4a450dc940337a5e1fec4cee41cfdfa275fadbf976a39722906099093e",
+  "size": 1211914,
+  "subdir": "win-64",
+  "timestamp": 1729194518000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-24.9.2-py312haa95532_0.conda",
+  "version": "24.9.2"
+}
